@@ -2,7 +2,7 @@
 ## Bio
 
 
-`Hello, World! `
+`Hello, World!\n`
 Welcome to my page! I am a third-year Math-CS major with a minor in Interdisciplinary Computing and Music at UCSD. Previous programming classes that I have enjoyed taking during my time at UCSD include:
 - CSE 12
 - CSE 30
