@@ -1,7 +1,7 @@
 # Sumit Shetye
 ## Bio
 
-![super old headshot](/screenshots/headshot.jpg)
+![super old headshot](screenshots/headshot.jpg)
 
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand
 
