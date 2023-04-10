@@ -31,7 +31,7 @@ My checklist for CSE 110 are as follows:
 Outside of classes, my favorite thing to do is music. I have been a percussionist for almost 7 years now, and I'm involved with many music related activities outside of campus. Most recently, I am a member of the orchestra for Muir Musical's production of Into the Woods. If you're interested, [come see us perform!](https://ucsd.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=MM&linkID=ucsd-arts&shopperContext=&caller=&appCode=)
 
 
-*Screenshots for this lab regarding Git commands can be found in [Screenshots](/screenshots/)*
+*Screenshots for this lab regarding Git commands can be found in [Screenshots](/screenshots)*
 
 
 
